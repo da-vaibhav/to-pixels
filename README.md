@@ -16,7 +16,7 @@ var pixelass = new Pixel('ass');
 > Pixels is here
 
 ```shell
-npm i to-pixel
+npm i to-pixels
 ```
 
 ```js
